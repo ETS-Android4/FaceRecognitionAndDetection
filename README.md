@@ -2,6 +2,7 @@
 
 A minimalistic Face Recognition module which can be easily incorporated in any Android project.
 
+github link: https://github.com/prasannadupakuntla/FaceRecognitionAndDetection.git
 
 ## Key Features 
 - Fast and very accurate.
@@ -25,7 +26,7 @@ A minimalistic Face Recognition module which can be easily incorporated in any A
 Use Import from Version Control in Android Studio or Clone repo and open the project in Android Studio.
 
 ```bash
-git clone <gitlink>
+git clone https://github.com/prasannadupakuntla/FaceRecognitionAndDetection.git
 ```
 ### Application file : [Face_Recognition.apk](https://drive.google.com/file/d/1ggOo4acHOodrdCP2MkfUv4DJlL_VDZH4/view?usp=sharing)
 
