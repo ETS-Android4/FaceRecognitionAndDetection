@@ -5,7 +5,7 @@ A minimalistic Face Recognition module which can be easily incorporated in any A
 github link: https://github.com/prasannadupakuntla/FaceRecognitionAndDetection.git
 
 ## Key Features 
-- Fast and very accurate.
+- Fast and very accurate..
 - No re-training required to add new Faces.
 - Save Recognitions for further use.
 - Real-Time and offline.
